@@ -1,0 +1,7 @@
+"use strict";
+
+app.controller("BrpCtrl", function($scope){
+	$scope.highwayName="Blue Ridge Parkway";
+	$scope.highwayDescription="The Blue Ridge Parkway is a National Parkway and All-American Road in the United States, noted for its scenic beauty. The parkway, which is America's longest linear park,[3] runs for 469 miles (755 km) through 29 Virginia and North Carolina counties, linking the Shenandoah National Park to the Great Smoky Mountains National Park. It runs mostly along the spine of the Blue Ridge, a major mountain chain that is part of the Appalachian Mountains. Its southern terminus is on the boundary between Great Smoky Mountains National Park and the Cherokee Indian Reservation in North Carolina, from which it travels north to Shenandoah National Park in Virginia continues on as Skyline Drive, a similar scenic road which is managed by a different National Park Service unit.The parkway has been the most visited unit of the National Park System every year since 1946 except two (1949, 2013).[4] Land on either side of the road is owned and maintained by the National Park Service and, in many places, parkway land is bordered by United States Forest Service property. The parkway is on North Carolina's version of the America the Beautiful quarter in 2015.";
+
+	});
